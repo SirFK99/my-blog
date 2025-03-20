@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding React Router",
+    "excerpt": "A short guide on using React Router for navigation...",
+    "content": "This is the full blog post content...",
+    "date": "2025-03-20"
+  },
+  {
+    "id": 2,
+    "title": "Getting Started with Bootstrap in React",
+    "excerpt": "Learn how to quickly style your React app with Bootstrap...",
+    "content": "This is the full blog post content...",
+    "date": "2025-03-21"
+  }
+]
